@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+@extends('layouts.profile')
 <html>
     <head>
         <meta charset="utf-8">
